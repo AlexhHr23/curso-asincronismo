@@ -10,5 +10,8 @@
     "javaScript"
   ],
   "author": "Alex Hernandez alex.hernandez24kb@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
